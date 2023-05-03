@@ -26,8 +26,8 @@ Once logged in the user will have the ability to start the trivia.  Here is your
   
 ### Usage
 
-GitHub Link:
- 
+Deployed Link:
+https://salty-ridge-35552.herokuapp.com/  
 The user will be able to add, delete and update scores.    
 
 ## license
